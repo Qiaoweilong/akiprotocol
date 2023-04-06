@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaki_protocol_web=self.webpackChunkaki_protocol_web||[]).push([[3411],{53411:function(r,o,e){e.r(o);var a=e(43583),u=e(41325),n=(0,a.ZP)(u.Z)((function(){return{width:"7.5rem",backgroundColor:"rgba(28, 175, 28, 0.2)",".MuiLinearProgress-bar":{backgroundColor:"#1CAF1C"}}}));o.default=n}}]);
